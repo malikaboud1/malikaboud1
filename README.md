@@ -1,4 +1,5 @@
-### Hi there 👋, my name is Malik
+### Hi There 👋,
+My Name Is Malik
 I am a computer science graduate and have more than two years of experience in web development.
 
 Skills: HTML5, CSS3, JAVASCRIPT, REACTJS, BOOTSTRAP
